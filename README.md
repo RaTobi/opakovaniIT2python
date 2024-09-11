@@ -1,1 +1,1 @@
-# ted-mame-hodinu-algoritmizace
+# opakovaniIT2python
